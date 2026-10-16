@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quản lý chi tiêu</string>
+    <string-array name="categories">
+        <item>Ăn uống</item>
+        <item>Đi lại</item>
+        <item>Học tập</item>
+        <item>Giải trí</item>
+        <item>Khác</item>
+    </string-array>
+</resources>
